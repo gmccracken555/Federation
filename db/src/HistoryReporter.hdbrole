@@ -1,0 +1,21 @@
+{
+  "role": {
+    "name": "HistoryReporter",
+    "object_privileges": [
+      {
+        "name": "Federation",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      }
+    ],
+    "schema_analytic_privileges": [
+      {
+        "privileges": [
+          "HistoricData"
+        ]
+      }
+    ]
+  }
+}

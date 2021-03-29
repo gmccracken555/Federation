@@ -1,0 +1,21 @@
+{
+  "role": {
+    "name": "CurrentReporter",
+    "object_privileges": [
+      {
+        "name": "Federation",
+        "type": "VIEW",
+        "privileges": [
+          "SELECT"
+        ]
+      }
+    ],
+    "schema_analytic_privileges": [
+      {
+        "privileges": [
+          "CurrentData"
+        ]
+      }
+    ]
+  }
+}

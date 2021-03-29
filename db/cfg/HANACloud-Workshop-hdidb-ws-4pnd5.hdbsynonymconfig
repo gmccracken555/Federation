@@ -1,0 +1,8 @@
+{
+  "com.sap::TLOG_F_C": {
+    "target": {
+      "object": "TLOG_F_C",
+      "schema.configure": "HANACloud-Workshop-hdidb-ws-4pnd5/schema"
+    }
+  }
+}
